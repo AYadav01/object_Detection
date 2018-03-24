@@ -7,15 +7,15 @@ Steps
 
 * Collecting negative or background images
 
-	Any image, that is not positive or the one that we want to detect, can be categorized as negative image. The more negative images we have, the better the classifer could be trained. The size of the images should be relatively small as it takes longer time to process large files.
+	Any image, that is not positive or the one that we don't want to detect, can be categorized as negative image. The more negative images we have, the better the classifer could be trained. The size of the images should be relatively small as it takes longer time to process large files.
 
 * Preprocessing the images
 
-	The images are converted to greyscale. The code also removes any blank or unsupported imags type.
+	The images are converted to greyscale. The code also removes any blank or unsupported image type.
 
 * Creating positive images
 
-	These images could be created manually; however, we decided to apply geometric transformation on one positive images then super impose it on all of our negative images. 
+	These images could be created manually; however, we decided to apply geometric transformation on one positive image and then super impose it on all of our negative images. 
 
 * Create a positive vector file by combining all the positive images
 
