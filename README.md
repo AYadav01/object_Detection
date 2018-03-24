@@ -1,6 +1,6 @@
 # Haar Classifier for Image/Video Classification
 
-**Version 1.0.0 ;-)**
+**Version 1.0.0**
 
 Steps
 ---
@@ -21,7 +21,7 @@ Steps
 
 	The positive vector file provides the path to the positive images and the decsription file
 
-* Train the Cascade
+* Train the Cascade: Moment of Truth :-)
 
 
 Description Files
