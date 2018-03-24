@@ -29,4 +29,6 @@ def find_bad():
                 except Exception as e:
                     print(str(e))
     print('Done all!')
-find_bad()
+
+if __name__ == '__main__':
+	find_bad()
