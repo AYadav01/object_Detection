@@ -19,9 +19,9 @@ Steps
 
 * Create a positive vector file by combining all the positive images
 
-	The positive vector file provides the path to the positive images and the decsription file
+	The positive vector file provides the path to the positive images and the description file
 
-* Train the Cascade: Moment of Truth :-)
+* Train and Test the Cascade: Moment of Truth :-)
 
 
 Description Files
@@ -29,9 +29,9 @@ Description Files
 
 The positive and negative images need description files.
 * bg.txt: It contains the path to each image
-* pos.txt: It contains the path to images, including, the number of objects and the location of the object in the image
+* pos.txt: It contains the path to images, including, the number and location of objects in the image
 
-Specification: 
+Specifications: 
 ---
 
 * Image Library: 'http://image-net.org'
