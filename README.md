@@ -5,7 +5,7 @@
 Steps
 ---
 
-* Collecting negative or background images
+* Collecting 'negative' or 'background' images
 
 	Any image, that is not positive or the one that we don't want to detect, can be categorized as negative image. The more negative images we have, the better the classifer could be trained. The size of the images should be relatively small as it takes longer time to process large files.
 
@@ -36,7 +36,7 @@ Specification:
 
 * Image Library: 'http://image-net.org'
 * Image analysis module: OpenCV
-* Programming Language: Python
+* Programming Language: Python 3.5
 * Total images (Positive & Negative): 8000
 * Images size: 50x50
 * Server: Linux (Ubutu)
