@@ -29,7 +29,7 @@ Description Files
 
 The positive and negative images need description files.
 * bg.txt: It contains the path to each image
-* pos.txt: It contains the path to images, including, the number and location of objects in the image
+* info.txt: It contains the path to images, including, the number and location of objects in the image
 
 Specifications: 
 ---
